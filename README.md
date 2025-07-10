@@ -14,7 +14,8 @@ A modern, expense tracking app for iOS, built with SwiftUI.
 
 ## Video Demonstration
 
-*https://imgur.com/a/i0YUMgF*
+![ezgif-1044b584abe6c7](https://github.com/user-attachments/assets/23d63aa3-6840-4984-b18f-85decb2a221f)
+
 
 ## Design
 
